@@ -1,7 +1,7 @@
+
 {
 	"file_exclude_patterns":
-	[
-		"*.pyc",
+	[   "*.pyc",
 		"*.pyo",
 		"*.exe",
 		"*.dll",
@@ -25,18 +25,13 @@
 		"*.synctex.gz",
 		"*.synctex.gz(busy)",
 		"*.hi",
-		"*.ho"
-	],
+		"*.ho" 	],
 	"folder_exclude_patterns":
-	[
-		".svn",
+	[ 	".svn",
 		".git",
 		".hg",
-		"CVS"
-	],
+		"CVS" 	],
 	"ignored_packages":
-	[
-		"Vintage"
-	],
+	[ 	"Vintage" 	],
 	"theme": "Soda Dark.sublime-theme"
-}
+	}
